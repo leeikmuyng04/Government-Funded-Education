@@ -81,6 +81,43 @@ public:
 		bucket[hashIndex].count++;
 	}
 
+	void Remove(KEY key)
+	{
+		// 1. 해시 함수를 통해서 값을 받는 임시 변수
+		int hashIndex = HashFunction(key);
+
+		// 2. Node를 탐색할 수 있는 포인터 변수 선언
+		Node * currentNode = bucket[hashIndex].head;
+
+		// 3. 이전 Node를 저장할 수 있는 포인터 변수 선언
+		Node * previousNode = nullptr;
+
+		// 4. currentNode가 nullptr과 같다면 함수를 종료합니다.
+		if (currentNode == nullptr)
+		{
+			cout << "Not Key Found" << endl;
+
+			return;
+		}
+
+	}
+
+	void Show()
+	{
+		for (int i = 0; i < SIZE; i++)
+		{
+			Node* currentNode = bucket[i].head;
+
+			while (currentNode != nullptr)
+			{
+				cout << "[" << i << "] " << "KEY : " << currentNode->key << " VALUE : " << currentNode->value << " ";
+				currentNode = currentNode->next;
+			}
+
+			cout << endl;
+		}
+	}
+
 	Node * CreateNode(KEY key, VALUE value)
 	{
 		Node* newNode = new Node();
@@ -94,13 +131,42 @@ public:
 		return newNode;
 	}
 
+	~HashTable()
+	{
+		for (int i = 0; i < SIZE; i++)
+		{
+			Node * deleteNode = bucket[i].head;
+			Node * nextNode = bucket[i].head;
+
+			if (bucket[i].head == nullptr)
+			{
+				continue;
+			}
+			else
+			{
+				while (nextNode != nullptr)
+				{
+					nextNode = deleteNode->next;
+
+					delete deleteNode;
+
+					deleteNode = nextNode;
+				}
+			}
+		}
+	}
 };
 
 int main()
 {
 	HashTable<int, std::string> hashTable;
 
-	hashTable.HashFunction(1);
+	hashTable.Insert(10, "Vector");
+	hashTable.Insert(15, "Stack");
+	hashTable.Insert(6, "Queue");
+	hashTable.Insert(20, "Linked List");
+
+	hashTable.Show();
 
 	return 0;
 }
