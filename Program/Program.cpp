@@ -2,69 +2,93 @@
 
 using namespace std;
 
-#define SIZE 10
-
 template <typename T>
-class AdjacencyList
+class BinarySearchTree
 {
 private:
 	struct Node
 	{
 		T data;
-		Node * next;
 
-		Node(T data, Node * link = nullptr)
-		{
-			this->data = data;
-			next = link;
-		}
+		Node * left;
+		Node * right;
 	};
 
-	int size; // 정점의 개수
-	T vertex[SIZE]; // 정점의 집합
-	Node* list[SIZE]; // 인접 리스트
+	Node * root;
 public:
-
-	AdjacencyList()
+	BinarySearchTree()
 	{
-		size = 0;
+		root = nullptr;
+	}
 
-		for (int i = 0; i < SIZE; i++)
-		{
-			list[i] = NULL;
-			vertex[i] = NULL;
-		}
+	Node * RootNode()
+	{
+		return root;
 	}
 
 	void Insert(T data)
 	{
-		if (size >= SIZE)
+		if (root == nullptr)
 		{
-			cout << "Adjacency List Overflow" << endl;
+			root = CreateNode(data);
 		}
 		else
 		{
-			vertex[size++] = data;
-		}
-	}
+			Node * currentNode = root;
 
-	~AdjacencyList()
-	{
-		for (int i = 0; i < SIZE; i++)
-		{
-			if (list[i] != nullptr)
+			while (currentNode != nullptr)
 			{
-				delete [] list[i];
+				if (currentNode->data == data)
+				{
+					return;
+				}
+				else if (currentNode->data > data)
+				{
+					if (currentNode->left == nullptr)
+					{
+						currentNode->left = CreateNode(data);
+						break;
+					}
+					else
+					{
+						currentNode = currentNode->left;
+					}
+				}
+				else
+				{
+					if (currentNode->right == nullptr)
+					{
+						currentNode->right = CreateNode(data);
+
+						break;
+					}
+					else
+					{
+						currentNode = currentNode->right;
+					}
+				}
 			}
 		}
 
 	}
 
+	Node * CreateNode(T data)
+	{
+		Node* newNode = new Node();
+
+		newNode->data = data;
+
+		newNode->left = nullptr;
+
+		newNode->right = nullptr;
+
+		return newNode;
+	}
 };
 
 int main()
 {
-	AdjacencyList<char> adjacencyList;
+	BinarySearchTree<int> binarySearchTree;
 
 
 
