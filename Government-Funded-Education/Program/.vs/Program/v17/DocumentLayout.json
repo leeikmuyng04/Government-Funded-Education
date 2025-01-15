@@ -7,6 +7,15 @@
       "RelativeMoniker": "D:0:0:{40347C02-56AA-4800-815D-A8367D9687B1}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{49A191FF-B548-46B8-8E49-33AA9B89E54F}|..\\Class8th (Binary Search)\\Class8th (Binary Search).vcxproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class8th (Binary Search)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D39C69-65DE-4347-B0A3-785C82C6AB12}|..\\Class7th (Two Pointer)\\Class7th (Two Pointer).vcxproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class7th (Two Pointer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F876834B-545A-490F-9F8B-BB3D5BDBA47E}|..\\Class6th (Seive of Eratosthenes)\\Class6th (Seive of Eratosthenes).vcxproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class6th (Seive of Eratosthenes)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{15383551-5096-4F4D-9A33-D33EDED28F59}|..\\Class5th (Insert Sort)\\Class5th (Insert Sort).vcxproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class5th (Insert Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -32,11 +41,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class8th (Binary Search)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class8th (Binary Search)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class8th (Binary Search)\\Source.cpp",
+              "RelativeToolTip": "..\\Class8th (Binary Search)\\Source.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T06:12:01.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class7th (Two Pointer)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class7th (Two Pointer)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class7th (Two Pointer)\\Source.cpp",
+              "RelativeToolTip": "..\\Class7th (Two Pointer)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T05:25:43.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class6th (Seive of Eratosthenes)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class6th (Seive of Eratosthenes)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class6th (Seive of Eratosthenes)\\Source.cpp",
+              "RelativeToolTip": "..\\Class6th (Seive of Eratosthenes)\\Source.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T04:14:23.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class5th (Insert Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Insert Sort)\\Source.cpp",
@@ -44,12 +92,11 @@
               "RelativeToolTip": "..\\Class5th (Insert Sort)\\Source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-14T05:41:31.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T05:41:31.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class4th (Select Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class4th (Select Sort)\\Source.cpp",
@@ -57,12 +104,11 @@
               "RelativeToolTip": "..\\Class4th (Select Sort)\\Source.cpp",
               "ViewState": "AQIAABIAAAAAAAAAAAAowBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-14T04:41:49.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T04:41:49.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class3th (Bubble Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Bubble Sort)\\Source.cpp",
@@ -70,12 +116,11 @@
               "RelativeToolTip": "..\\Class3th (Bubble Sort)\\Source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T06:41:03.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T06:41:03.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Class3th (Bubble Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\Class3th (Bubble Sort)\\Source.cpp",
@@ -86,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Class2th (Brute Force)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\Class2th (Brute Force)\\Source.cpp",
@@ -98,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Class1th (Time Complexity \u0026 Space Complexity)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\Class1th (Time Complexity \u0026 Space Complexity)\\Source.cpp",
@@ -116,7 +161,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBMAAAANAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T04:04:42.065Z",
               "EditorCaption": ""
