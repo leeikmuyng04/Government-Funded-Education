@@ -5,6 +5,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{40347C02-56AA-4800-815D-A8367D9687B1}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{40347C02-56AA-4800-815D-A8367D9687B1}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9E83B-2CE7-4540-A8A7-F2B244AAE9D7}|..\\Class13th (Euclidean)\\Class13th (Euclidean).vcxproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class13th (Euclidean)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D6F6EF-FB08-4659-85CB-293C22A505E3}|..\\Class12th (Merge Sort)\\Class12th (Merge Sort).vcxproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class12th (Merge Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +20,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class13th (Euclidean)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class13th (Euclidean)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class13th (Euclidean)\\Source.cpp",
+              "RelativeToolTip": "..\\Class13th (Euclidean)\\Source.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T06:09:00.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class12th (Merge Sort)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class12th (Merge Sort)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class12th (Merge Sort)\\Source.cpp",
+              "RelativeToolTip": "..\\Class12th (Merge Sort)\\Source.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T05:07:04.821Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +56,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAeAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T04:04:42.065Z",
               "EditorCaption": ""
