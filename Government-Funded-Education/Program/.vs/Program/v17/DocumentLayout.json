@@ -7,6 +7,12 @@
       "RelativeMoniker": "D:0:0:{40347C02-56AA-4800-815D-A8367D9687B1}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2E4A3E47-28EB-4721-9CDC-D716ECF6C236}|..\\Class15th (Dynamic Programming)\\Class15th (Dynamic Programming).vcxproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class15th (Dynamic Programming)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE16553B-1E63-4E65-B90B-A409743DAF93}|..\\Class14th (Greedy)\\Class14th (Greedy).vcxproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class14th (Greedy)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38F9E83B-2CE7-4540-A8A7-F2B244AAE9D7}|..\\Class13th (Euclidean)\\Class13th (Euclidean).vcxproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class13th (Euclidean)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -20,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class15th (Dynamic Programming)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class15th (Dynamic Programming)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class15th (Dynamic Programming)\\Source.cpp",
+              "RelativeToolTip": "..\\Class15th (Dynamic Programming)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T05:42:27.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class14th (Greedy)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class14th (Greedy)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class14th (Greedy)\\Source.cpp",
+              "RelativeToolTip": "..\\Class14th (Greedy)\\Source.cpp",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwEgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T04:11:18.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class13th (Euclidean)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class13th (Euclidean)\\Source.cpp",
@@ -32,12 +64,11 @@
               "RelativeToolTip": "..\\Class13th (Euclidean)\\Source.cpp",
               "ViewState": "AQIAABAAAAAAAAAAAAAuwB0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-17T06:09:00.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T06:09:00.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class12th (Merge Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class12th (Merge Sort)\\Source.cpp",
@@ -45,8 +76,7 @@
               "RelativeToolTip": "..\\Class12th (Merge Sort)\\Source.cpp",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-17T05:07:04.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T05:07:04.821Z"
             },
             {
               "$type": "Document",
@@ -56,7 +86,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAbAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T04:04:42.065Z",
               "EditorCaption": ""
