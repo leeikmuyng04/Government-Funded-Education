@@ -1,54 +1,52 @@
 ﻿#include <iostream>
-#include <vector>
-#include <queue>
 
-#define SIZE 8
+#define SIZE 7
 
 using namespace std;
 
 class Graph
 {
 private:
-	queue<int> queue;
-	bool visited[SIZE];
-	vector<int> graph[SIZE];
+	int parent[SIZE];
 
 public:
 	Graph()
 	{
-		for (int i = 0; i < SIZE; i++)
+		for (int i = 1; i < SIZE; i++)
 		{
-			visited[i] = false;
+			parent[i] = i;
 		}
 	}
 
-	void Insert(int vertex, int edge)
+	int Find(int x)
 	{
-		graph[vertex].push_back(edge);
-		graph[edge].push_back(vertex);
+		if (x == parent[x])
+		{
+			return x;
+		}
+		else
+		{
+			return parent[x] = Find(parent[x]);
+		}
 	}
 
 };
 
+
 int main()
 {
-#pragma region 너비 우선 탐색 (Breadth First Search)
-	// 시작 정점을 방문한 후 시작 정점에 인접한
-	// 모든 정점들을 우선 방문하는 방법입니다.
+#pragma region 유니온 파인드
+	// 여러 노드가 존재할 때 어떤 노드가 다른 노드와
+	// 연결되어 있는 지 확인하는 알고리즘입니다.
 
-	// 더 이상 방문하지 않은 정점이 없을 때까지
-	// 방문하지 않은 모든 정점들에 대해서도 너비 우선 탐색을 적용합니다.
+	// Union 연산 : 특정한 두 개의 노드를 같은 집합으로 합치는 연산입니다.
 
-	Graph graph;
+	// Find 연산 : 특정한 노드가 어느 집합에 있는 지 확인하는 연산입니다.
 
-	graph.Insert(1, 2);
-	graph.Insert(1, 3);
 
-	graph.Insert(2, 4);
-	graph.Insert(2, 5);
-
-	graph.Insert(3, 6);
-	graph.Insert(3, 7);
+	// 시간 복잡도
+	// O(M log n) : M 연산의 개수, N은 노드의 개수
+	// M이 N²에 가까울 때 O(N²logN)이 됩니다.
 
 #pragma endregion
 
