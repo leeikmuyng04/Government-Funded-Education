@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{40347C02-56AA-4800-815D-A8367D9687B1}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1DDF62B0-F054-41A5-B308-C390BAB4D33B}|..\\Class20th (Union Find)\\Class20th (Union Find).vcxproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class20th (Union Find)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99EB610D-4D77-4263-8A02-5ADD54238CEB}|..\\Class19th (Topology Sort)\\Class19th (Topology Sort).vcxproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class19th (Topology Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -38,11 +41,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class20th (Union Find)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class20th (Union Find)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class20th (Union Find)\\Source.cpp",
+              "RelativeToolTip": "..\\Class20th (Union Find)\\Source.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwFEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-23T05:01:35.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class19th (Topology Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class19th (Topology Sort)\\Source.cpp",
@@ -50,12 +66,11 @@
               "RelativeToolTip": "..\\Class19th (Topology Sort)\\Source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-22T06:11:59.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T06:11:59.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class18th (Breadth First Search)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class18th (Breadth First Search)\\Source.cpp",
@@ -63,12 +78,11 @@
               "RelativeToolTip": "..\\Class18th (Breadth First Search)\\Source.cpp",
               "ViewState": "AQIAAEAAAAAAAAAAAAAgwFQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-22T04:14:03.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T04:14:03.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class17th (Depth First Search)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class17th (Depth First Search)\\Source.cpp",
@@ -80,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class16th (Back Tracking)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class16th (Back Tracking)\\Source.cpp",
@@ -92,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class15th (Dynamic Programming)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class15th (Dynamic Programming)\\Source.cpp",
@@ -104,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class14th (Greedy)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class14th (Greedy)\\Source.cpp",
@@ -116,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class13th (Euclidean)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class13th (Euclidean)\\Source.cpp",
@@ -128,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Class12th (Merge Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class12th (Merge Sort)\\Source.cpp",
@@ -146,7 +160,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Government-Funded-Education\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAMAAAA",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAYwGoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T04:04:42.065Z",
               "EditorCaption": ""
