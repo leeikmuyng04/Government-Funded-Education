@@ -356,6 +356,7 @@
 "Assets/Class3th (User Interface)/Scripts/ButtonManager.cs"
 "Assets/Class4th (Prefab System)/Scripts/Dialog.cs"
 "Assets/Class4th (Prefab System)/Scripts/DialogManager.cs"
+"Assets/Class4th (Prefab System)/Scripts/Information.cs"
 -langversion:9.0
 
 /deterministic

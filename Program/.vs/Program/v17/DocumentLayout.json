@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\government-funded-education\\program\\assets\\class4th (prefab system)\\scripts\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\class4th (prefab system)\\scripts\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\government-funded-education\\program\\assets\\class4th (prefab system)\\scripts\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\class4th (prefab system)\\scripts\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\government-funded-education\\program\\assets\\class3th (user interface)\\scripts\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\assets\\class3th (user interface)\\scripts\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\class3th (user interface)\\scripts\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\government-funded-education\\program\\assets\\class4th (prefab system)\\scripts\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\class4th (prefab system)\\scripts\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\assets\\class2th (script)\\scripts\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,12 +51,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Information.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class4th (Prefab System)\\Scripts\\Information.cs",
+              "RelativeDocumentMoniker": "Assets\\Class4th (Prefab System)\\Scripts\\Information.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class4th (Prefab System)\\Scripts\\Information.cs",
+              "RelativeToolTip": "Assets\\Class4th (Prefab System)\\Scripts\\Information.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:02:57.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Dialog.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class4th (Prefab System)\\Scripts\\Dialog.cs",
               "RelativeDocumentMoniker": "Assets\\Class4th (Prefab System)\\Scripts\\Dialog.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class4th (Prefab System)\\Scripts\\Dialog.cs",
               "RelativeToolTip": "Assets\\Class4th (Prefab System)\\Scripts\\Dialog.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAA1wAwAAAAFAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T06:20:29.439Z",
               "EditorCaption": ""
@@ -65,14 +82,14 @@
               "RelativeDocumentMoniker": "Assets\\Class3th (User Interface)\\Scripts\\ButtonManager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class3th (User Interface)\\Scripts\\ButtonManager.cs",
               "RelativeToolTip": "Assets\\Class3th (User Interface)\\Scripts\\ButtonManager.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvwQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T05:38:25.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "State.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class2th (Script)\\Scripts\\State.cs",
               "RelativeDocumentMoniker": "Assets\\Class2th (Script)\\Scripts\\State.cs",
