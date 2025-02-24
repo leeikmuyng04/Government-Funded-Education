@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\government-funded-education\\program\\assets\\class6th (intantiate \u0026 destroy)\\scripts\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\class6th (intantiate \u0026 destroy)\\scripts\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\government-funded-education\\program\\assets\\class4th (prefab system)\\scripts\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\class4th (prefab system)\\scripts\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\class3th (user interface)\\scripts\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\government-funded-education\\program\\assets\\class4th (prefab system)\\scripts\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\assets\\class4th (prefab system)\\scripts\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\class4th (prefab system)\\scripts\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,19 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WeaponManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\WeaponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\WeaponManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\WeaponManager.cs",
+              "RelativeToolTip": "Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\WeaponManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:20:35.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Information.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class4th (Prefab System)\\Scripts\\Information.cs",
               "RelativeDocumentMoniker": "Assets\\Class4th (Prefab System)\\Scripts\\Information.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class4th (Prefab System)\\Scripts\\Information.cs",
               "RelativeToolTip": "Assets\\Class4th (Prefab System)\\Scripts\\Information.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAABIwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T05:02:57.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Dialog.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class4th (Prefab System)\\Scripts\\Dialog.cs",
               "RelativeDocumentMoniker": "Assets\\Class4th (Prefab System)\\Scripts\\Dialog.cs",
@@ -71,12 +88,11 @@
               "RelativeToolTip": "Assets\\Class4th (Prefab System)\\Scripts\\Dialog.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAQwAkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T06:20:29.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T06:20:29.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ButtonManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class3th (User Interface)\\Scripts\\ButtonManager.cs",
               "RelativeDocumentMoniker": "Assets\\Class3th (User Interface)\\Scripts\\ButtonManager.cs",
@@ -84,12 +100,11 @@
               "RelativeToolTip": "Assets\\Class3th (User Interface)\\Scripts\\ButtonManager.cs",
               "ViewState": "AQIAABEAAAAAAAAAAADwvwQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T05:38:25.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T05:38:25.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "State.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class2th (Script)\\Scripts\\State.cs",
               "RelativeDocumentMoniker": "Assets\\Class2th (Script)\\Scripts\\State.cs",
