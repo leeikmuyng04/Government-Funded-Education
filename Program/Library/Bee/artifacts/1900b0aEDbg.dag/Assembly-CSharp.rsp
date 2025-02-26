@@ -357,7 +357,12 @@
 "Assets/Class4th (Prefab System)/Scripts/Dialog.cs"
 "Assets/Class4th (Prefab System)/Scripts/DialogManager.cs"
 "Assets/Class4th (Prefab System)/Scripts/Information.cs"
+"Assets/Class6th (Intantiate & Destroy)/Scripts/Knife.cs"
+"Assets/Class6th (Intantiate & Destroy)/Scripts/Pistol.cs"
+"Assets/Class6th (Intantiate & Destroy)/Scripts/Rifle.cs"
+"Assets/Class6th (Intantiate & Destroy)/Scripts/Weapon.cs"
 "Assets/Class6th (Intantiate & Destroy)/Scripts/WeaponManager.cs"
+"Assets/Class7th (Translate)/Scripts/Aircraft.cs"
 -langversion:9.0
 
 /deterministic
