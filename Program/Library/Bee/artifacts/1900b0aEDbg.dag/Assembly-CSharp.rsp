@@ -363,6 +363,8 @@
 "Assets/Class6th (Intantiate & Destroy)/Scripts/Weapon.cs"
 "Assets/Class6th (Intantiate & Destroy)/Scripts/WeaponManager.cs"
 "Assets/Class7th (Translate)/Scripts/Aircraft.cs"
+"Assets/Class8th (Collision)/Scripts/Wraith.cs"
+"Assets/Class9th (Ray Cast)/Scripts/Picking.cs"
 -langversion:9.0
 
 /deterministic
