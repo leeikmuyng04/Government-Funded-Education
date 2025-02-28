@@ -73,6 +73,7 @@
     <Compile Include="Assets\Class6th (Intantiate &amp; Destroy)\Scripts\Weapon.cs" />
     <Compile Include="Assets\Class7th (Translate)\Scripts\Aircraft.cs" />
     <Compile Include="Assets\Class9th (Ray Cast)\Scripts\Picking.cs" />
+    <Compile Include="Assets\Class9th (Ray Cast)\Scripts\Health.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
