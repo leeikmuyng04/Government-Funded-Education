@@ -64,10 +64,13 @@
     <Compile Include="Assets\Class6th (Intantiate &amp; Destroy)\Scripts\WeaponManager.cs" />
     <Compile Include="Assets\Class4th (Prefab System)\Scripts\Information.cs" />
     <Compile Include="Assets\Class2th (Script)\Scripts\State.cs" />
+    <Compile Include="Assets\Class10th (Sound System)\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Class4th (Prefab System)\Scripts\DialogManager.cs" />
     <Compile Include="Assets\Class3th (User Interface)\Scripts\ButtonManager.cs" />
+    <Compile Include="Assets\Class10th (Sound System)\Scripts\Sound.cs" />
     <Compile Include="Assets\Class8th (Collision)\Scripts\Wraith.cs" />
     <Compile Include="Assets\Class4th (Prefab System)\Scripts\Dialog.cs" />
+    <Compile Include="Assets\Class11th (Animation Event)\Scripts\Character.cs" />
     <Compile Include="Assets\Class6th (Intantiate &amp; Destroy)\Scripts\Rifle.cs" />
     <Compile Include="Assets\Class6th (Intantiate &amp; Destroy)\Scripts\Pistol.cs" />
     <Compile Include="Assets\Class6th (Intantiate &amp; Destroy)\Scripts\Weapon.cs" />

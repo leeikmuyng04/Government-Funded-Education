@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\government-funded-education\\program\\assets\\class9th (ray cast)\\scripts\\picking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\government-funded-education\\program\\assets\\class11th (animation event)\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\class11th (animation event)\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\government-funded-education\\program\\assets\\class10th (sound system)\\scripts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\class10th (sound system)\\scripts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\assets\\class10th (sound system)\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\class10th (sound system)\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\assets\\class9th (ray cast)\\scripts\\picking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\class9th (ray cast)\\scripts\\picking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +98,45 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class11th (Animation Event)\\Scripts\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Class11th (Animation Event)\\Scripts\\Character.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class11th (Animation Event)\\Scripts\\Character.cs",
+              "RelativeToolTip": "Assets\\Class11th (Animation Event)\\Scripts\\Character.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:26:18.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Sound.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class10th (Sound System)\\Scripts\\Sound.cs",
+              "RelativeDocumentMoniker": "Assets\\Class10th (Sound System)\\Scripts\\Sound.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class10th (Sound System)\\Scripts\\Sound.cs",
+              "RelativeToolTip": "Assets\\Class10th (Sound System)\\Scripts\\Sound.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:02:59.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class10th (Sound System)\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Class10th (Sound System)\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class10th (Sound System)\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Class10th (Sound System)\\Scripts\\AudioManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:27:57.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Health.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class9th (Ray Cast)\\Scripts\\Health.cs",
               "RelativeDocumentMoniker": "Assets\\Class9th (Ray Cast)\\Scripts\\Health.cs",
@@ -98,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Picking.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class9th (Ray Cast)\\Scripts\\Picking.cs",
               "RelativeDocumentMoniker": "Assets\\Class9th (Ray Cast)\\Scripts\\Picking.cs",
@@ -106,12 +156,11 @@
               "RelativeToolTip": "Assets\\Class9th (Ray Cast)\\Scripts\\Picking.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAIwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T06:20:39.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T06:20:39.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Wraith.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class8th (Collision)\\Scripts\\Wraith.cs",
               "RelativeDocumentMoniker": "Assets\\Class8th (Collision)\\Scripts\\Wraith.cs",
@@ -123,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Aircraft.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class7th (Translate)\\Scripts\\Aircraft.cs",
               "RelativeDocumentMoniker": "Assets\\Class7th (Translate)\\Scripts\\Aircraft.cs",
@@ -135,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Rifle.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\Rifle.cs",
               "RelativeDocumentMoniker": "Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\Rifle.cs",
@@ -147,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Pistol.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\Pistol.cs",
               "RelativeDocumentMoniker": "Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\Pistol.cs",
@@ -159,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Knife.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\Knife.cs",
               "RelativeDocumentMoniker": "Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\Knife.cs",
@@ -171,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\Weapon.cs",
               "RelativeDocumentMoniker": "Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\Weapon.cs",
@@ -183,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "WeaponManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\WeaponManager.cs",
               "RelativeDocumentMoniker": "Assets\\Class6th (Intantiate \u0026 Destroy)\\Scripts\\WeaponManager.cs",
@@ -195,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Information.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class4th (Prefab System)\\Scripts\\Information.cs",
               "RelativeDocumentMoniker": "Assets\\Class4th (Prefab System)\\Scripts\\Information.cs",
@@ -207,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Dialog.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class4th (Prefab System)\\Scripts\\Dialog.cs",
               "RelativeDocumentMoniker": "Assets\\Class4th (Prefab System)\\Scripts\\Dialog.cs",
@@ -219,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ButtonManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class3th (User Interface)\\Scripts\\ButtonManager.cs",
               "RelativeDocumentMoniker": "Assets\\Class3th (User Interface)\\Scripts\\ButtonManager.cs",
@@ -231,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "State.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Program\\Assets\\Class2th (Script)\\Scripts\\State.cs",
               "RelativeDocumentMoniker": "Assets\\Class2th (Script)\\Scripts\\State.cs",
