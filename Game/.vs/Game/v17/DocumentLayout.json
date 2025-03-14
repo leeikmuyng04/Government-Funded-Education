@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\government-funded-education\\game\\assets\\scripts\\roadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Game\\assets\\scripts\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\government-funded-education\\game\\assets\\scripts\\interactzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Game\\assets\\scripts\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +50,51 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InteractZone.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Game\\Assets\\Scripts\\InteractZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractZone.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Game\\Assets\\Scripts\\InteractZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractZone.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:05:35.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Road.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Game\\Assets\\Scripts\\Road.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Road.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Game\\Assets\\Scripts\\Road.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Road.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:22:31.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Runner.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Game\\Assets\\Scripts\\Runner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Runner.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Game\\Assets\\Scripts\\Runner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Runner.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:09:12.285Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RoadManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Game\\Assets\\Scripts\\RoadManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RoadManager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Government-Funded-Education\\Game\\Assets\\Scripts\\RoadManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\RoadManager.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAwwAcAAAAlAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBoAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T05:45:59.422Z",
               "EditorCaption": ""
