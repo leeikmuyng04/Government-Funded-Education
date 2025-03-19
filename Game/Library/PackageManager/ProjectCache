@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638777893432002111
-    m_Hash: 3954282672
+      ticks: 638779550161022290
+    m_Hash: 718526850
   m_LockFileStatus:
     m_FilePath: C:/Users/Administrator/Desktop/Government-Funded-Education/Game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638777893432051967
-    m_Hash: 2787142689
+      ticks: 638779550161022290
+    m_Hash: 3219731702
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -3060,12 +3060,14 @@ m_ResolvedPackages:
     - 3.0.28
     - 3.0.31
     - 3.0.34
+    - 3.0.35
     compatible:
     - 3.0.27
     - 3.0.28
     - 3.0.31
     - 3.0.34
-    recommended: 3.0.34
+    - 3.0.35
+    recommended: 3.0.35
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
