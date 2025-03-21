@@ -23,7 +23,7 @@ public class MouseManager : Singleton<MouseManager>
         SceneManager.sceneLoaded += OnSceneLoaded;
     }
 
-    void state(int state)
+    public void state(int state)
     {
         switch (state)
         {

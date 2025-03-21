@@ -32,6 +32,11 @@ public class Runner : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (GameManager.Instance)
+        {
+
+        }
+
         Move();
     }
 
@@ -61,6 +66,8 @@ public class Runner : MonoBehaviour
     void Move()
     {
         rigidBody.position = Vector3.Lerp(rigidBody.position, new Vector3((int)roadLine * positionX, 0, 0), Time.deltaTime * speed);
+
+
     }
 
     private void OnDisable()
